@@ -1,0 +1,3 @@
+we are creating a new text file into the SF-calculater barnch to 
+check that if we switch the branch from cmd so the changes we 
+are doing inside the SF-calculater branch is visible into other branches or not.
